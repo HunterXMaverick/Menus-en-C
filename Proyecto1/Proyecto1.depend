@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616703152 source:c:\users\hunter\desktop\cosas de codeblocks\proyectos\proyecto1\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616644397 source:c:\users\hunter\desktop\cosas de codeblocks\proyectos\bioproyecto\main.cpp
+	<iostream>
+	<windows.h>
+
